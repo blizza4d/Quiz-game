@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+
+}
+#body{
+    background: linear-gradient(to right, #00c9ff, #2643e3);
+    color: #111;
+}
+
+#title{
+    margin-left: 44%;
+    display: inline-block;
+    font-size: 35px;
+}
+#timer{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 80%;
+    font-weight: bolder;
+    
+}
+
+#rules{
+    color: rgb(82, 178, 233);
+    display: inline-block;
+
+    font-size: larger;
+}
+#play{
+    margin-left: 44.5%;
+
+    font-size: 30px;
+    height: 50px;
+    width: 150px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: chocolate;
+}
+#play:hover{
+    background-color: rgb(146, 72, 20);
+}
+
+#questions{
+    margin-left: 15px;
+
+    font-size: 40px;
+}
+
+.b{
+    margin-top: 10px;
+    margin-left: 30px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 30px;
+    width :170px;
+}
+
+#b1{
+    background-color: #d4e32f;
+}
+#b2{
+    background-color: rgba(171, 9, 240, 0.534);
+}
+#b3{
+    background-color: rgb(212, 31, 31);
+}
+#b4{
+    background-color: rgb(39, 39, 250);
+}
+
+#b1:hover,#b2:hover,#b3:hover,#b4:hover,#playa:hover{
+    filter: brightness(80%);
+}
+
+#highsc{
+    float: right;
+    margin-right: 20px;
+}
+
+#re{
+    margin-top: 75px;
+    text-align: center;
+    
+    font-size: 30px;
+}
+#playa {
+    margin-top: 70px;
+    margin-left: 46.5%;
+    padding: 10px;
+    background-color: orange;
+}
